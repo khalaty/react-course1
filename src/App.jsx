@@ -62,4 +62,4 @@ function TabbedContent() {
 }
 
 
-export default TabbedContent;
+export default TabbedContent
